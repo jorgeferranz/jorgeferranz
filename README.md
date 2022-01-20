@@ -7,18 +7,18 @@
 <p>
   <b>My speaking languages: </b>
   <ol> 
-    <li> Spanish </li>
-    <li> English </li>
-    <li> French </li>
-    <li> Portuguese </li>
+    <li> Spanish: <i> native </i></li>
+    <li> English: <i> C1 </i></li>
+      <li> French: <i> B2 </i></li>
+      <li> Portuguese: <i> B1 </i></li>
   </ol>
   
   <b> My programming languages: </b>
   <ol>
-  <li> Python </li>
+  <li> Python: <i>Main</i></li>
   <li> Java </li>
   <li> C </li>
-  <li> Others: Pascal, Prolog, HTML, Javascript... </li>
+  <li> Others: Pascal, Prolog, HTML, Javascript... <i>(Some notions)</i></li>
   </ol>
  
   <b> Contact: </b>
