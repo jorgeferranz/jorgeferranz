@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center"> Hi! I'm Jorge! </h1>
 
-<!--
-**jorgeferranz/jorgeferranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Informatic Engineering and Business Administration at Universidad Rey Juan Carlos, Madrid, Spain 🇪🇸</h3>
+<h4 align="center"> Currently doing Erasmus at Coimbra, Portugal 🇵🇹</h4>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <b>My speaking languages: </b>
+  <ol> 
+    <li> Spanish </li>
+    <li> English </li>
+    <li> French </li>
+    <li> Portuguese </li>
+  </ol>
+  
+  <b> My programming languages: </b>
+  <ol>
+  <li> Python </li>
+  <li> Java </li>
+  <li> C </li>
+  <li> Others: Pascal, Prolog, HTML, Javascript... </li>
+  </ol>
+ 
+  <b> Contact: </b>
+  <i> purplebeard17@gmail.com </i>
