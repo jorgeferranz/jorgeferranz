@@ -18,7 +18,7 @@
   <li> Python: <i>Main</i></li>
   <li> Java </li>
   <li> C </li>
-  <li> Others: Pascal, Prolog, HTML, Javascript... <i>(Some notions)</i></li>
+  <li> Others: Pascal, Prolog, HTML, Javascript, SQL... <i>(Some notions)</i></li>
   </ol>
  
   <b> Contact: </b>
