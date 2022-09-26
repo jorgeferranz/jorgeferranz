@@ -1,7 +1,6 @@
 <h1 align="center"> Hi! I'm Jorge! </h1>
 
 <h3 align="center"> Informatic Engineering and Business Administration at Universidad Rey Juan Carlos, Madrid, Spain 🇪🇸</h3>
-<h4 align="center"> Currently doing Erasmus at Coimbra, Portugal 🇵🇹</h4>
 
 
 <p>
