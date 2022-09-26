@@ -15,7 +15,7 @@
   
   <b> My programming languages: </b>
   <ol>
-  <li> Python: <i>Main</i></li>
+  <li> Python: </li>
   <li> Java </li>
   <li> C </li>
   <li> Others: Pascal, Prolog, HTML, Javascript, SQL... <i>(Some notions)</i></li>
