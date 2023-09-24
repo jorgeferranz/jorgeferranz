@@ -12,12 +12,11 @@
       <li> Portuguese: <i> B1 </i></li>
   </ol>
   
-  <b> My programming languages: </b>
+  <b> My main programming languages: </b>
   <ol>
   <li> Python</li>
   <li> Java </li>
-  <li> C </li>
-  <li> Others: Pascal, Prolog, HTML, Javascript, SQL... <i>(Some notions)</i></li>
+  <li> C# </li>
   </ol>
  
   <b> Contact: </b>
